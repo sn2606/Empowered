@@ -27,6 +27,7 @@
 .checkoutProduct__title {
     font-size: 37px;
     font-weight: 800;
+    line-height: normal;
 }
 
 .checkoutProduct_rating {
